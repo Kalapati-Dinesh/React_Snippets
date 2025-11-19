@@ -10,6 +10,7 @@ function App() {
   return(
     <>
     <h1>Hello World!</h1>
+    <h1>After Changes</h1>
     <Home></Home>
     <About></About>
     <Contact></Contact>
